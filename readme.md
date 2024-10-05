@@ -1,7 +1,7 @@
 <h1 align="center">I'm a functional programmer who hates classes</h1>
 <h3 align="center">I specialise on the HTML canvas</h3>
 
-- 🔭 I’m currently working on [Canvascript](Draw on the canvas, then get the JS script to render it on the HTML canvas. A tool for graphic designers and developers.)
+- 🔭 I’m currently working on <b>Canvascript</b> a somewhat "popular" project
 
 - 🌱 I’m currently learning **Typescript**
 

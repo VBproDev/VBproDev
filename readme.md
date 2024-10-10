@@ -1,3 +1,12 @@
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The HTML canvas enthusiast, open for jobs and collaboration">
+    <meta name="keywords" content="html, canvas, hire, jobs, freelancer, bootstrap, js, frontend, developer, dev">
+    <meta name="author" content="Viraj Bijpuria">
+    <meta property="og:title" content="The HTML canvas expert">
+    <meta property="og:description"
+        content="The HTML canvas enthusiast, open for jobs and collaboration">
+<meta property="og:url" content="https://github.com/VBproDev/">
 <h1 align="center">I'm a functional programmer who hates classes</h1>
 <h3 align="center">I specialise on the HTML canvas</h3>
 

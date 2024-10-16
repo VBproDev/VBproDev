@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on <b>Canvascript</b> a somewhat "popular" repository
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/VBproDev](https://github.com/VBproDev)
 
 - 📫 How to reach me **proshowspeed@gmail.com**
 
 - ⚡ Fun fact **I am the only person who can pair Bootstrap with the HTML canvas**
+
+- 💸 I am open to **freelancing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

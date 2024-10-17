@@ -19,8 +19,7 @@
 - ⚡ Fun fact **I am the only person who can pair Bootstrap with the HTML canvas**
 
 - 💸 I am open to **freelancing**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 

@@ -10,7 +10,7 @@
 <h1 align="center">I'm a functional programmer who hates JS frameworks</h1>
 <h3 align="center">I specialise on the HTML canvas</h3>
 
-- 🔭 I’m currently working on <b>Canvascript</b> a somewhat "popular" repository
+- 🔭 I’m currently working on <b>Canvascript</b> a web tool that gets 2500+ visits monthly
 
 - 👨‍💻 All of my projects are available at [https://github.com/VBproDev](https://github.com/VBproDev)
 

@@ -3,12 +3,12 @@
     <meta name="description" content="The SEO and HTML canvas enthusiast, open for jobs and collaboration">
     <meta name="keywords" content="seo, html, canvas, hire, jobs, freelancer, bootstrap, js, frontend, developer, dev">
     <meta name="author" content="Viraj Bijpuria">
-    <meta property="og:title" content="The SEO and HTML canvas expert">
+    <meta property="og:title" content="The SEO and HTML canvas enthusiast">
     <meta property="og:description"
-        content="The HTML canvas and SEO enthusiast, open for jobs and collaboration">
+        content="The HTML canvas and SEO enthusiast, open collaboration">
 <meta property="og:url" content="https://github.com/VBproDev/">
 <h1 align="center">I'm a functional programmer who hates JS frameworks</h1>
-<h3 align="center">I specialise on the HTML canvas</h3>
+<h3 align="center">I specialise on SEO and the HTML canvas</h3>
 
 - 🔭 I’m currently working on <b>Canvascript</b> a web tool that gets 2500+ visits monthly
 
@@ -17,8 +17,6 @@
 - 📫 How to reach me **proshowspeed@gmail.com**
 
 - ⚡ Fun fact I have scaled websites to 3000+ visits/month without **backlinks**
-
-- 💸 I am open to **freelancing**
   
 <p align="left">
 </p>

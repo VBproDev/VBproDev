@@ -61,6 +61,3 @@
 </p>
 
 ---
-
-Let me know if this works for you!
-

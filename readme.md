@@ -71,4 +71,4 @@ Draw → Get the HTML5 canvas code → Done.
 
 ---
 
-_“Perfecting is often better than shipping fast, also btw never approve PRs without testing them”_
+_“never approve PRs without testing them”_

@@ -1,74 +1,57 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Viraj Bijpuria – Web developer specializing in JAM stack, SEO, HTML Canvas, and frontend development. Open to collaboration and projects.">
-<meta name="keywords" content="JAM stack, SEO, HTML, Canvas, JavaScript, TypeScript, Python, Bootstrap, frontend developer, web development, open source">
-<meta name="author" content="Viraj Bijpuria">
-<meta property="og:title" content="Viraj Bijpuria - Web Developer & JAM Stack Specialist">
-<meta property="og:description" content="Frontend developer with expertise in SEO, HTML Canvas, JAM stack, and modern web development. Open to collaboration and projects.">
-<meta property="og:url" content="https://github.com/VBproDev/">
+# 👋 Hey, I’m Viraj Bijpuria  
+**Frontend dev | Accessibility (WCAG) | SEO**  
 
-# 👋 Hey there, I’m Viraj Bijpuria  
-Perfectionist. Indie dev. Open source contributor.
-
-I love turning ideas into tools. Whether it's helping game devs draw on the canvas without writing a single line of code or scraping the web to find high-quality B2B leads, I like building, clean, and useful software—usually powered by TypeScript, Astro, all with a good dose of fretting over architectures and paradigms.
+I build tools and websites that are **accessible, performant, and discoverable**. From no-code canvas apps for game devs to AstroJS integrations and converters for niche number systems, I like turning ideas into tools that people actually use.  
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
 ### 🖌️ [Canvascript](https://github.com/VBproDev/Canvascript)  
-> **No-code canvas graphics tool for web game devs**  
-Draw → Get the HTML5 canvas code → Done.  
-- Built with HTML, CSS, TypeScript, Bootstrap  
-- Draw freehand, curved, and straight lines  
-- Save & share designs, test on multiple resolutions  
-- 100+ users from organic search
-- A Discord server with an active community
-- Hosted on GitHub Pages
+> **No-code HTML5 canvas graphics tool for web game devs**  
+Draw → Export code → Done.  
+- Freehand, curved, and straight drawing tools  
+- Save/share designs, test across resolutions  
+- 100+ organic users via search + active Discord community  
+- Hosted on GitHub Pages  
 
 ---
 
-### 🌌 [ScrollyVideo - Astro Support](https://github.com/dkaoster/scrolly-video)  
-> **Contributed AstroJS support to a popular open source library (5k+ weekly downloads)**  
-- Added Astro compatibility and usage examples  
-- Maintained clean integration with original architecture
+### 🌌 [ScrollyVideo – Astro Support](https://github.com/dkaoster/scrolly-video)  
+> **Contributed AstroJS support to a popular open-source library (5k+ weekly downloads)**  
+- Added Astro compatibility + examples  
+- Expanded library reach to Astro developers  
+- Integrated cleanly with original architecture  
 
 ---
 
-### 🤖 TradeLeads (Under development)  
-> **Lead-gen and outreach tool that scrapes high-intent B2B leads from e-commerce stores**  
-- Uses SERP scraping and smart filtering to find top-performing stores  
-- Extracts emails and WhatsApp numbers of real ecom stores
-- Built for exporters
-- Supports WhatsApp & email outreach with templates  
-- Built with FastAPI (backend), Astro (frontend), and Raspberry Pi infra  
-> _Currently under development_
+### [Balanced ternary converter](https://vbprodev.github.io/decimal-and-balanced-ternary-converter/)  
+> **Convert balanced ternary ↔ decimal**  
+- Bulk conversion powered by web workers  
+- Fully WCAG compliant  
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages:** TypeScript, HTML, CSS  
-- **Frameworks:** Astro, Bootstrap  
-- **Dev Tools:** Git, GitHub, Google Search Console  
-- **Other:** SEO (JSON-LD, microdata, meta tags), GitHub Pages
-- **Learning:** FastAPI and SCSS
+## 📈 SEO  
+- Organic growth via Google Search Console insights  
+- Structured data (JSON-LD + microdata) for richer snippets  
+- Optimised titles/descriptions → better CTR  
 
 ---
 
-## 📈 SEO & Open Source Highlights
-
-- Used **Google Search Console** to track performance  
-- Integrated structured data (JSON-LD + microdata)  
-- Generated thousands of visits per week without backlinks and ads
+## 🛠️ Accessibility  
+- Full keyboard navigation for dynamic content  
+- Semantic HTML with ARIA for screenreader compatibility  
+- WCAG AA color contrast  
+- Accessible modals/popups with ARIA  
 
 ---
 
-## 📬 Contact
-
+## 📬 Contact  
+- GitHub: [@VBproDev](https://github.com/VBproDev)  
 - Email: [proshowspeed@gmail.com](mailto:proshowspeed@gmail.com)  
-- GitHub: [@VBproDev](https://github.com/VBproDev)
 
 ---
 
-_“never approve PRs without testing them”_
+_“never approve a pull request without reviewing it”_  
+

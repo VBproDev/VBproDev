@@ -1,13 +1,13 @@
 # 👋 Hey, I’m Viraj Bijpuria  
-**Frontend dev | Accessibility (WCAG) | SEO**  
+**Frontend & Python Dev | Accessibility (WCAG) | SEO**  
 
-I build tools and websites that are **accessible, performant, and discoverable**. From no-code canvas apps for game devs to AstroJS integrations and converters for niche number systems, I like turning ideas into tools that people actually use.  
+I build **tools and websites that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, SASS, TypeScript, Python and SQLite. I have previously also worked with Bootstrap.
 
 ---
 
 ## 🚀 Projects  
 
-### 🖌️ [Canvascript](https://github.com/VBproDev/Canvascript)  
+### [Canvascript](https://github.com/VBproDev/Canvascript)  
 > **No-code HTML5 canvas graphics tool for web game devs**  
 Draw → Export code → Done.  
 - Freehand, curved, and straight drawing tools  
@@ -17,11 +17,20 @@ Draw → Export code → Done.
 
 ---
 
-### 🌌 [ScrollyVideo – Astro Support](https://github.com/dkaoster/scrolly-video)  
-> **Contributed AstroJS support to a popular open-source library (5k+ weekly downloads)**  
-- Added Astro compatibility + examples  
-- Expanded library reach to Astro developers  
-- Integrated cleanly with original architecture  
+### [Space biology DB](https://github.com/VBproDev/space-biology-db)  
+> **SQLite database of all space biology publications since 2010**  
+- Scraped thousands of publications using **Python + Playwright**  
+- Parsed metadata (title, authors, links, abstracts) with **BeautifulSoup**  
+- Normalized into a **relational SQLite DB** with foreign keys  
+- Released [dataset](https://www.kaggle.com/datasets/virajbijpuria/all-space-biology-publications-2010-2025) + [example code](https://www.kaggle.com/code/virajbijpuria/notebookb99b1347e3) on Kaggle for reproducible research  
+
+---
+
+### [ScrollyVideo - Astro Support](https://github.com/dkaoster/scrolly-video)  
+> **Added AstroJS support to a popular open-source library (5k+ weekly downloads)**  
+- Implemented Astro compatibility + examples  
+- Expanded adoption beyond React/Svelte  
+- Contributed upstream with clean integration  
 
 ---
 
@@ -29,29 +38,56 @@ Draw → Export code → Done.
 > **Convert balanced ternary ↔ decimal**  
 - Bulk conversion powered by web workers  
 - Fully WCAG compliant  
+---
+
+## 📊 Data & Python  
+- Web scraping with Playwright/BeautifulSoup  
+- Structuring datasets with SQLite  
+- Releasing datasets + example notebooks on Kaggle  
 
 ---
 
 ## 📈 SEO  
-- Organic growth via Google Search Console insights  
-- Structured data (JSON-LD + microdata) for richer snippets  
-- Optimised titles/descriptions → better CTR  
+- Organic traffic growth using GSC insights  
+- Structured data (JSON-LD + microdata)  
+- Optimized titles/descriptions for CTR  
 
 ---
 
 ## 🛠️ Accessibility  
-- Full keyboard navigation for dynamic content  
-- Semantic HTML with ARIA for screenreader compatibility  
+- Keyboard navigation for dynamic content  
+- Semantic HTML + ARIA roles for screenreaders  
 - WCAG AA color contrast  
-- Accessible modals/popups with ARIA  
+- Accessible modals/popups  
 
 ---
 
 ## 📬 Contact  
 - GitHub: [@VBproDev](https://github.com/VBproDev)  
-- Email: [proshowspeed@gmail.com](mailto:proshowspeed@gmail.com)  
+- Email: [proshowspeed@gmail.com](mailto:proshowspeed@gmail.com)
 
 ---
 
-_“never approve a pull request without reviewing it”_  
+## 🧰 Tools  
+<p align="left">
+  <a href="https://astro.build" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="AstroJS logo" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite logo" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" width="40" height="40"/>
+  </a>
+</p>
 
+_“never approve a pull request without reviewing it”_  

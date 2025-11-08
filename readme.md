@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Viraj Bijpuria  
 **Frontend Dev | Python web scraper | Accessibility & SEO specialist**  
 
-I build **tools, websites and datasets that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, SASS, TypeScript, Python and SQLite. I have previously also worked with Bootstrap.
+I build **tools, websites and datasets that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, SASS, TypeScript, Python, SQLite and Peewee ORM. I have previously also worked with Bootstrap.
 
 ---
 
@@ -87,6 +87,9 @@ Draw → Export code → Done.
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" width="40" height="40"/>
+  </a>
+    <a href="https://docs.peewee-orm.com" target="_blank">
+    <img src="https://docs.peewee-orm.com/en/latest/_images/peewee3-logo.png" alt="Peewee logo" width="40" height="40"/>
   </a>
 </p>
 

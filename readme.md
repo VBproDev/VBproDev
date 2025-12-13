@@ -94,4 +94,4 @@ Draw → Export code → Done.
   </a>
 </p>
 
-_“never approve a pull request without reviewing it”_  
+_“A jack of all trades is a master of none, but oftentimes better than a master of one.”_  

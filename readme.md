@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Viraj Bijpuria  
-**Python web scraper | Frontend Dev | Accessibility & SEO specialist**  
+**Python Web Scraping | Data Engineer | Frontend Dev | Accessibility & SEO specialist**  
 
 I build **tools, websites and datasets that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, SASS, TypeScript, Python, SQLite and Peewee ORM. I have previously also worked with Bootstrap.
 
@@ -12,16 +12,17 @@ I build **tools, websites and datasets that are accessible, performant, and data
 Draw → Export code → Done.  
 - Freehand, curved, and straight drawing tools  
 - Save/share designs, test across resolutions  
-- 100+ organic users via search + active Discord community  
+- Hundreds of organic users via search + active Discord community  
 - Hosted on GitHub Pages  
 
 ---
 
 ### [Space biology DB](https://github.com/VBproDev/space-biology-db)  
-> **SQLite database of all space biology publications since 2010**  
+> **SQLite database of all space biology publications since 2010**
+- Designed and implemented an end-to-end data pipeline from web ingestion to relational storage and public distribution 
 - Scraped thousands of publications using **Python + Playwright**  
 - Parsed metadata (title, authors, links, abstracts) with **BeautifulSoup**  
-- Normalized into a **relational SQLite DB** with foreign keys  
+- Normalized into a **relational SQLite DB** with foreign keys using **Peewee ORM**
 - Released [dataset](https://www.kaggle.com/datasets/virajbijpuria/all-space-biology-publications-2010-2025) + [example code](https://www.kaggle.com/code/virajbijpuria/notebookb99b1347e3) on Kaggle for reproducible research  
 
 ---
@@ -36,7 +37,7 @@ Draw → Export code → Done.
 
 ### [Balanced ternary converter](https://vbprodev.github.io/decimal-and-balanced-ternary-converter/)  
 > **Convert balanced ternary ↔ decimal**  
-- Bulk conversion powered by web workers  
+- Bulk conversion powered by **web workers**
 - Fully WCAG compliant  
 ---
 

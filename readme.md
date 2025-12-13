@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Viraj Bijpuria  
-**Frontend Dev | Python web scraper | Accessibility & SEO specialist**  
+**Python web scraper | Frontend Dev | Accessibility & SEO specialist**  
 
 I build **tools, websites and datasets that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, SASS, TypeScript, Python, SQLite and Peewee ORM. I have previously also worked with Bootstrap.
 

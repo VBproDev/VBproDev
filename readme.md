@@ -32,8 +32,6 @@ I build **tools, websites and datasets that are accessible, performant, and data
 Draw → Export code → Done.  
 - Freehand, curved, and straight drawing tools  
 - Save/share designs, test across resolutions  
-- Hundreds of organic users via search + active Discord community  
-- Hosted on GitHub Pages  
 
 ---
 

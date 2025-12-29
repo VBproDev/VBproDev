@@ -7,16 +7,6 @@ I build **tools, websites and datasets that are accessible, performant, and data
 
 ## 🚀 Projects  
 
-### [Canvascript](https://github.com/VBproDev/Canvascript)  
-> **No-code HTML5 canvas graphics tool for web game devs**  
-Draw → Export code → Done.  
-- Freehand, curved, and straight drawing tools  
-- Save/share designs, test across resolutions  
-- Hundreds of organic users via search + active Discord community  
-- Hosted on GitHub Pages  
-
----
-
 ### [Estrocom](https://github.com/VBproDev/estrocom)
 > **A fully responsive, SEO-friendly, WCAG-compliant, and high-performance e-commerce template**
 - Sub second performance.
@@ -37,6 +27,16 @@ Draw → Export code → Done.
 
 ---
 
+### [Canvascript](https://github.com/VBproDev/Canvascript)  
+> **No-code HTML5 canvas graphics tool for web game devs**  
+Draw → Export code → Done.  
+- Freehand, curved, and straight drawing tools  
+- Save/share designs, test across resolutions  
+- Hundreds of organic users via search + active Discord community  
+- Hosted on GitHub Pages  
+
+---
+
 ### [ScrollyVideo - Astro Support](https://github.com/dkaoster/scrolly-video)  
 > **Added AstroJS support to a popular open-source library (5k+ weekly downloads)**  
 - Implemented Astro compatibility + examples  
@@ -48,7 +48,8 @@ Draw → Export code → Done.
 ### [Balanced ternary converter](https://vbprodev.github.io/decimal-and-balanced-ternary-converter/)  
 > **Convert balanced ternary ↔ decimal**  
 - Bulk conversion powered by **web workers**
-- Fully WCAG compliant  
+- Fully WCAG compliant
+  
 ---
 
 ## 📊 Data & Python  

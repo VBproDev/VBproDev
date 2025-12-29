@@ -64,7 +64,7 @@ Draw → Export code → Done.
 
 ---
 
-## 🛠️ Accessibility  
+## ♿ A11y
 - Keyboard navigation for dynamic content  
 - Semantic HTML + ARIA roles for screenreaders  
 - WCAG AA color contrast  
@@ -78,7 +78,7 @@ Draw → Export code → Done.
 
 ---
 
-## 🧰 Tools  
+## 🛠️ Tools  
 <p align="left">
   <a href="https://astro.build" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="AstroJS logo" width="40" height="40"/>

@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Viraj Bijpuria  
 **Python Web Scraping | Data Engineer | Frontend Dev | Accessibility & SEO specialist**  
 
-I build **tools, websites and datasets that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, SASS, TypeScript, Python, SQLite and Peewee ORM. I have previously also worked with Bootstrap.
+I build **tools, websites and datasets that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, Tailwind, TypeScript, Python, SQLite and Peewee ORM. I have previously also worked with Bootstrap and SASS.
 
 ---
 
@@ -14,6 +14,16 @@ Draw → Export code → Done.
 - Save/share designs, test across resolutions  
 - Hundreds of organic users via search + active Discord community  
 - Hosted on GitHub Pages  
+
+---
+
+### [Estrocom](https://github.com/VBproDev/estrocom)
+> **A fully responsive, SEO-friendly, WCAG-compliant, and high-performance e-commerce template**
+- Sub second performance.
+- JSON-LD Schema and automatic sitemap: Your products get indexed and look great in Google search results.
+- Full Shopping Flow: Integrated cart functionality and product categorization.
+- Mobile-First: Works down to widths of 360px.
+- Atomic Design: Scalable architecture using Atoms, Molecules, and Organisms.
 
 ---
 
@@ -74,6 +84,9 @@ Draw → Export code → Done.
   <a href="https://astro.build" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="AstroJS logo" width="40" height="40"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind logo" width="40" height="40"/>
+  </a>  
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS logo" width="40" height="40"/>
   </a>

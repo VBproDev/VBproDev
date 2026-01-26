@@ -1,84 +1,89 @@
-# 👋 Hey, I’m Viraj Bijpuria  
+# Hey, I'm Viraj Bijpuria  
 **Python Web Scraping | Data Engineer | Frontend Dev | Accessibility & SEO specialist**  
 
-I build **tools, websites and datasets that are accessible, performant, and data-driven.** From no-code graphics apps and SEO-friendly sites to scraping and structuring large datasets, I like turning raw ideas (or raw data) into things people can actually use. I currently use AstroJS, Tailwind, TypeScript, Python, SQLite and Peewee ORM. I have previously also worked with Bootstrap and SASS.
+I build tools, websites, and datasets that people can actually use. That means fast, accessible, googleable and backed by real data. I work with AstroJS, Tailwind, TypeScript, Python, SQLite, and Peewee ORM. I've also used Bootstrap and SASS.
 
 ---
 
-## 🚀 Projects  
+## Projects  
 
 ### [Estrocom](https://github.com/VBproDev/estrocom)
-> **A fully responsive, SEO-friendly, WCAG-compliant, and high-performance e-commerce template**
-- Sub second performance.
-- JSON-LD Schema and automatic sitemap: Your products get indexed and look great in Google search results.
-- Full Shopping Flow: Integrated cart functionality and product categorization.
-- Mobile-First: Works down to widths of 360px.
-- Atomic Design: Scalable architecture using Atoms, Molecules, and Organisms.
+**A fast, SEO friendly e-commerce frontend with first-class accessibility**
+
+- ~800ms LCP on low-end mobile
+- JSON-LD schema and automatic sitemaps make the products look good in Google
+- WCAG 2.2 AA conformant
+- Works on screens as narrow as 320px
+- Built with atomic design principles (atoms, molecules, organisms)
 
 ---
 
 ### [Space biology DB](https://github.com/VBproDev/space-biology-db)  
-> **SQLite database of all space biology publications since 2010**
-- Designed and implemented an end-to-end data pipeline from web ingestion to relational storage and public distribution 
-- Scraped thousands of publications using **Python + Playwright**  
-- Parsed metadata (title, authors, links, abstracts) with **BeautifulSoup**  
-- Normalized into a **relational SQLite DB** with foreign keys using **Peewee ORM**
-- Released [dataset](https://www.kaggle.com/datasets/virajbijpuria/all-space-biology-publications-2010-2025) + [example code](https://www.kaggle.com/code/virajbijpuria/notebookb99b1347e3) on Kaggle for reproducible research  
+**SQLite database of space biology publications since 2010**
+
+I built a data pipeline that scrapes, parses, and structures thousands of academic publications:
+- Scraped with Python and Playwright  
+- Parsed metadata (titles, authors, links, abstracts) using BeautifulSoup  
+- Normalized into a relational SQLite database with Peewee ORM
+- Released the [dataset](https://www.kaggle.com/datasets/virajbijpuria/all-space-biology-publications-2010-2025) and [example code](https://www.kaggle.com/code/virajbijpuria/notebookb99b1347e3) on Kaggle  
 
 ---
 
 ### [Canvascript](https://github.com/VBproDev/Canvascript)  
-> **No-code HTML5 canvas graphics tool for web game devs**  
-Draw → Export code → Done.  
+**No-code HTML5 canvas graphics tool for web game devs**  
+
+Draw your graphics and export the code for the HTML5 canvas
 - Freehand, curved, and straight drawing tools  
-- Save/share designs, test across resolutions  
+- Save and share designs, test across resolutions  
 
 ---
 
 ### [ScrollyVideo - Astro Support](https://github.com/dkaoster/scrolly-video)  
-> **Added AstroJS support to a popular open-source library (5k+ weekly downloads)**  
-- Implemented Astro compatibility + examples  
-- Expanded adoption beyond React/Svelte  
+**Added AstroJS support to a popular open-source library (5k+ weekly downloads)**  
+
+- Wrote Astro compatibility layer with examples  
+- Expanded the library beyond React and Svelte  
 - Contributed upstream with clean integration  
 
 ---
 
 ### [Balanced ternary converter](https://vbprodev.github.io/decimal-and-balanced-ternary-converter/)  
-> **Convert balanced ternary ↔ decimal**  
-- Bulk conversion powered by **web workers**
-- Fully WCAG compliant
+**Convert between balanced ternary and decimal**  
+
+- Bulk conversion using web workers
+- WCAG 2.1 AA conformant
   
 ---
 
-## 📊 Data & Python  
-- Web scraping with Playwright/BeautifulSoup  
+## Data & Python  
+- Web scraping with Playwright and BeautifulSoup  
 - Structuring datasets with SQLite  
-- Releasing datasets + example notebooks on Kaggle  
+- Publishing datasets and example notebooks on Kaggle  
 
 ---
 
-## 📈 SEO  
-- Organic traffic growth using GSC insights  
-- Structured data (JSON-LD + microdata)  
-- Optimized titles/descriptions for CTR  
+## SEO  
+- Took site from 0 to 4k monthly impressions in 3 months
+- Structured data (JSON-LD and microdata)  
+- Optimized titles and descriptions for click-through rate  
 
 ---
 
-## ♿ A11y
+## Accessibility
 - Keyboard navigation for dynamic content  
-- Semantic HTML + ARIA roles for screenreaders  
+- Semantic HTML and ARIA roles for screen readers  
 - WCAG AA color contrast  
-- Accessible modals/popups  
+- Accessible modals and popups  
 
 ---
 
-## 📬 Contact  
+## Contact  
 - GitHub: [@VBproDev](https://github.com/VBproDev)  
 - Email: [proshowspeed@gmail.com](mailto:proshowspeed@gmail.com)
 
 ---
 
-## 🛠️ Tools  
+## Tools  
 <p align="left">
   <a href="https://astro.build" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="AstroJS logo" width="40" height="40"/>
@@ -102,5 +107,3 @@ Draw → Export code → Done.
     <img src="https://docs.peewee-orm.com/en/latest/_images/peewee3-logo.png" alt="Peewee logo" width="40" height="40"/>
   </a>
 </p>
-
-_“A jack of all trades is a master of none, but oftentimes better than a master of one.”_  

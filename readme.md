@@ -100,10 +100,7 @@ Draw your graphics and export the code for the HTML5 canvas
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite logo" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" width="40" height="40"/>
-  </a>
     <a href="https://docs.peewee-orm.com" target="_blank">
-    <img src="https://docs.peewee-orm.com/en/latest/_images/peewee4-logo.png" alt="Peewee logo" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/ab0e5c39ab9e5570cbb71e8efab2b27da9857b5c5cc1f62269064c254277bee6/687474703a2f2f692e696d6775722e636f6d2f7a68636f542e706e67" alt="Peewee logo" width="100" height="100"/>
   </a>
 </p>

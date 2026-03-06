@@ -104,6 +104,6 @@ Draw your graphics and export the code for the HTML5 canvas
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" width="40" height="40"/>
   </a>
     <a href="https://docs.peewee-orm.com" target="_blank">
-    <img src="https://docs.peewee-orm.com/en/latest/_images/peewee3-logo.png" alt="Peewee logo" width="40" height="40"/>
+    <img src="https://docs.peewee-orm.com/en/latest/_images/peewee4-logo.png" alt="Peewee logo" width="40" height="40"/>
   </a>
 </p>

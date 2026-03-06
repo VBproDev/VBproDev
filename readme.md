@@ -79,7 +79,7 @@ Draw your graphics and export the code for the HTML5 canvas
 
 ## Contact  
 - GitHub: [@VBproDev](https://github.com/VBproDev)  
-- Email: [proshowspeed@gmail.com](mailto:proshowspeed@gmail.com)
+- Email: [viraj.bijpuria@gmail.com](mailto:viraj.bijpuria@gmail.com)
 
 ---
 

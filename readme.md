@@ -7,7 +7,7 @@ I build tools, websites, and datasets that are fast, accessible, googleable and 
 
 ## Projects  
 
-### [Estrocom](https://github.com/VBproDev/estrocom)
+### [Estrocom](https://github.com/VGBijpuria/estrocom)
 **A fast, SEO friendly e-commerce frontend with first-class accessibility**
 
 - ~800ms LCP on low-end mobile
@@ -18,7 +18,7 @@ I build tools, websites, and datasets that are fast, accessible, googleable and 
 
 ---
 
-### [Space biology DB](https://github.com/VBproDev/space-biology-db)  
+### [Space biology DB](https://github.com/VGBijpuria/space-biology-db)  
 **SQLite database of space biology publications since 2010**
 
 I built a data pipeline that scrapes, parses, and structures thousands of academic publications:
@@ -29,7 +29,7 @@ I built a data pipeline that scrapes, parses, and structures thousands of academ
 
 ---
 
-### [Canvascript](https://github.com/VBproDev/Canvascript)  
+### [Canvascript](https://github.com/VGBijpuria/Canvascript)  
 **No-code HTML5 canvas graphics tool for web game devs**  
 
 Draw your graphics and export the code for the HTML5 canvas
@@ -47,7 +47,7 @@ Draw your graphics and export the code for the HTML5 canvas
 
 ---
 
-### [Balanced ternary converter](https://vbprodev.github.io/decimal-and-balanced-ternary-converter/)  
+### [Balanced ternary converter](https://vgbijpuria.github.io/decimal-and-balanced-ternary-converter/)  
 **Convert between balanced ternary and decimal**  
 
 - Bulk conversion using web workers
@@ -78,7 +78,7 @@ Draw your graphics and export the code for the HTML5 canvas
 ---
 
 ## Contact  
-- GitHub: [@VBproDev](https://github.com/VBproDev)  
+- GitHub: [@VGBijpuria](https://github.com/VGBijpuria)  
 - Email: [viraj.bijpuria@gmail.com](mailto:viraj.bijpuria@gmail.com)
 
 ---
